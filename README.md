@@ -1,4 +1,4 @@
-# Jenkins pipeline for this repository
+# Jenkins pipeline for this repositoryyy
 
 This repo contains a sample `Jenkinsfile` that builds the project's Docker image (using the repository `Dockerfile`), optionally pushes it to a registry, and then deploys the container either locally on the Jenkins agent or to a remote host via SSH.
 
